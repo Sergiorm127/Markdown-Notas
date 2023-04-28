@@ -1,6 +1,6 @@
-# **Metodología Agile**
+# Metodología Agile
 
-## Valores Clave:
+## Valores Clave
 
 * Los individuos e interacciones están por encima de procesos y herramientas.
 * Un software funcional tiene mayor prioridad que la documentación.

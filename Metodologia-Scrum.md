@@ -1,4 +1,4 @@
-# **Metodologia Scrum**
+# Metodologia Scrum
 
 Permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Basado en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes. 
 

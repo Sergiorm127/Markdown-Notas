@@ -10,7 +10,7 @@ Modelo alternativo creación de ramas para proyectos programados (Scrum).
 * Master : Versión estable del código.
 * Develop : Integración continua y desarrollo
 
-# Ramas Auxiliares ( Se pueden crear desde git-flow init)
+## Ramas Auxiliares ( Se pueden crear desde git-flow init)
 
 * Feature : Desarrollo de nuevas características.
 * Release : Preparar nueva version para lanzamiento.
